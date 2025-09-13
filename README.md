@@ -1,6 +1,5 @@
-#Salary Prediction System
-
-This is a Machine Learning + Streamlit project that predicts the salary of an employee based on their details (e.g., age, gender, education, degree, etc.).
+# Salary Prediction System
+### This is a Machine Learning + Streamlit project that predicts the salary of an employee based on their details (e.g., age, gender, education, degree, etc.).
 
 The project uses:
 scikit-learn for building and training the ML model.
